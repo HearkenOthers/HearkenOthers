@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @HearkenOthers
+- 👀 I’m interested in creating animal-based games
+- 🌱 I’m currently learning C++ and Unity
+- 📫 How to reach me on linkedin hearken-others
+- 😄 Pronouns: he/they
+- ⚡ Fun fact: I love spiders!
